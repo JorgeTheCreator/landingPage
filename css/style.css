@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+body, .navbar{
+   background-color:#BDA075;
+   font-family: 'Quicksand', sans-serif;
+
+}
+.btn-outline-danger{
+  border-radius:20px;
+  color:white;
+  border-color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+.nav-item{
+
+  font-family: 'Quicksand', sans-serif;
+
+}
+.container{
+  margin-top: 10%;
+}
+.navbar-brand, #tm{
+font-family: 'Anton', sans-serif;
+letter-spacing: 0.5px;
+
+}
+#navbar {
+  -webkit-animation-duration: 3s;
+  -webkit-animation-iteration-count:1;
+}
+#codingPhase{
+  -webkit-animation-duration: 2s;
+ -webkit-animation-delay: 2s;
+ -webkit-animation-iteration-count:1;
+}
+
+#subtitle{
+  -webkit-animation-duration: 2s;
+ -webkit-animation-delay: 8s;
+ -webkit-animation-iteration-count:1;
+}
+#heading{
+  -webkit-animation-duration: 4s;
+ -webkit-animation-delay: 4s;
+ -webkit-animation-iteration-count:1;
+}
+#Potato-Img{
+  -webkit-animation-duration: 2s;
+ -webkit-animation-delay: 6s;
+ -webkit-animation-iteration-count:1;
+}
